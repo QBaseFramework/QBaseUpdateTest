@@ -1,0 +1,3 @@
+[submodule "QBaseUpdate"]
+	path = QBaseUpdate
+	url = git@github.com:QBaseFramework/QBaseUpdate.git
